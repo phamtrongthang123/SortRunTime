@@ -1,0 +1,210 @@
+Selection Sort,101.273,10000
+Insertion Sort,61.5312,10000
+Binary Insertion Sort,41.7941,10000
+Bubble Sort,263.581,10000
+Shaker sort,212.097,10000
+Shell Sort,1.81424,10000
+Heap Sort,1.71865,10000
+Merge Sort,1.28173,10000
+Quick Sort,1.05273,10000
+qsort,1.13971,10000
+Radix sort,13.4142,10000
+Counting Sort,70.5441,10000
+Flash Sort,0.410532,10000
+Selection Sort,400.993,20000
+Insertion Sort,255.67,20000
+Binary Insertion Sort,185.099,20000
+Bubble Sort,1316.4,20000
+Shaker sort,948.666,20000
+Shell Sort,4.42443,20000
+Heap Sort,3.68134,20000
+Merge Sort,2.82045,20000
+Quick Sort,2.26514,20000
+qsort,2.43602,20000
+Radix sort,27.4633,20000
+Counting Sort,71.8677,20000
+Flash Sort,0.925414,20000
+Selection Sort,1737.97,40000
+Insertion Sort,1082.16,40000
+Binary Insertion Sort,772.378,40000
+Bubble Sort,4978.55,40000
+Shaker sort,3602.88,40000
+Shell Sort,9.28829,40000
+Heap Sort,7.91423,40000
+Merge Sort,5.7589,40000
+Quick Sort,4.64352,40000
+qsort,5.1599,40000
+Radix sort,53.7181,40000
+Counting Sort,70.3091,40000
+Flash Sort,1.81409,40000
+Selection Sort,3708.25,60000
+Insertion Sort,2179.91,60000
+Binary Insertion Sort,1466.39,60000
+Bubble Sort,10990.1,60000
+Shaker sort,8118.35,60000
+Shell Sort,14.5328,60000
+Heap Sort,12.3671,60000
+Merge Sort,9.16496,60000
+Quick Sort,7.18637,60000
+qsort,8.0872,60000
+Radix sort,80.7911,60000
+Counting Sort,71.7901,60000
+Flash Sort,3.05745,60000
+Selection Sort,6429.97,80000
+Insertion Sort,3862.36,80000
+Binary Insertion Sort,2628.98,80000
+Bubble Sort,19772.4,80000
+Shaker sort,14604.1,80000
+Shell Sort,20.7953,80000
+Heap Sort,16.9112,80000
+Merge Sort,12.2212,80000
+Quick Sort,9.93114,80000
+qsort,10.8713,80000
+Radix sort,107.273,80000
+Counting Sort,72.9945,80000
+Flash Sort,4.08262,80000
+Selection Sort,9986.22,100000
+Insertion Sort,6065.63,100000
+Binary Insertion Sort,4083.84,100000
+Bubble Sort,31157.2,100000
+Shaker sort,22884.6,100000
+Shell Sort,26.5534,100000
+Heap Sort,21.5493,100000
+Merge Sort,15.4761,100000
+Quick Sort,12.4171,100000
+qsort,14.0561,100000
+Radix sort,133.997,100000
+Counting Sort,74.7317,100000
+Flash Sort,5.4503,100000
+Selection Sort,14393,120000
+Insertion Sort,8673.79,120000
+Binary Insertion Sort,5876.63,120000
+Bubble Sort,45172.3,120000
+Shaker sort,32904.3,120000
+Shell Sort,32.9357,120000
+Heap Sort,26.4679,120000
+Merge Sort,18.9793,120000
+Quick Sort,15.2229,120000
+qsort,16.9434,120000
+Radix sort,162.084,120000
+Counting Sort,76.2397,120000
+Flash Sort,6.97006,120000
+Selection Sort,19628.9,140000
+Insertion Sort,11814.8,140000
+Binary Insertion Sort,8041.03,140000
+Bubble Sort,61633.1,140000
+Shaker sort,44829.7,140000
+Shell Sort,38.486,140000
+Heap Sort,31.445,140000
+Merge Sort,22.4192,140000
+Quick Sort,18.0388,140000
+qsort,19.9463,140000
+Radix sort,190.199,140000
+Counting Sort,80.6823,140000
+Flash Sort,9.49157,140000
+Selection Sort,25611.3,160000
+Insertion Sort,15566.4,160000
+Binary Insertion Sort,11058,160000
+Bubble Sort,86298.8,160000
+Shaker sort,61589.5,160000
+Shell Sort,47.8816,160000
+Heap Sort,39.2293,160000
+Merge Sort,26.1214,160000
+Quick Sort,20.3753,160000
+qsort,23.0452,160000
+Radix sort,215.336,160000
+Counting Sort,88.4604,160000
+Flash Sort,10.0782,160000
+Selection Sort,40823.8,200000
+Insertion Sort,24187,200000
+Binary Insertion Sort,16641,200000
+Bubble Sort,126313,200000
+Shaker sort,90873.2,200000
+Shell Sort,56.2671,200000
+Heap Sort,46.4336,200000
+Merge Sort,32.5624,200000
+Quick Sort,25.7974,200000
+qsort,29.0991,200000
+Radix sort,272.276,200000
+Counting Sort,83.003,200000
+Flash Sort,12.0591,200000
+Shell Sort,364.934,1000000
+Heap Sort,277.687,1000000
+Merge Sort,181.517,1000000
+Quick Sort,139.408,1000000
+qsort,163.24,1000000
+Radix sort,1351.02,1000000
+Counting Sort,176.294,1000000
+Flash Sort,100.7,1000000
+Shell Sort,865.229,2000000
+Heap Sort,630.731,2000000
+Merge Sort,375.575,2000000
+Quick Sort,285.859,2000000
+qsort,347.908,2000000
+Radix sort,2701.3,2000000
+Counting Sort,287.345,2000000
+Flash Sort,271.376,2000000
+Shell Sort,1881.24,4000000
+Heap Sort,1512.03,4000000
+Merge Sort,773.367,4000000
+Quick Sort,583.726,4000000
+qsort,706.021,4000000
+Radix sort,5410.22,4000000
+Counting Sort,518.878,4000000
+Flash Sort,660.846,4000000
+Shell Sort,3147.76,6000000
+Heap Sort,2502.22,6000000
+Merge Sort,1235.66,6000000
+Quick Sort,911.917,6000000
+qsort,1078.99,6000000
+Radix sort,8209.09,6000000
+Counting Sort,776.092,6000000
+Flash Sort,1058.43,6000000
+Shell Sort,4549.6,8000000
+Heap Sort,3534.91,8000000
+Merge Sort,1591,8000000
+Quick Sort,1193.54,8000000
+qsort,1461.62,8000000
+Radix sort,10956.5,8000000
+Counting Sort,1013.13,8000000
+Flash Sort,1438.04,8000000
+Shell Sort,6069.4,10000000
+Heap Sort,4612.84,10000000
+Merge Sort,2014.53,10000000
+Quick Sort,1502.17,10000000
+qsort,1841.37,10000000
+Radix sort,13758.7,10000000
+Counting Sort,1250.87,10000000
+Flash Sort,1859.17,10000000
+Shell Sort,7026.55,12000000
+Heap Sort,5721.1,12000000
+Merge Sort,2430.32,12000000
+Quick Sort,1820.99,12000000
+qsort,2224.6,12000000
+Radix sort,16407.3,12000000
+Counting Sort,1497.58,12000000
+Flash Sort,2245.21,12000000
+Shell Sort,8547.62,14000000
+Heap Sort,6913.67,14000000
+Merge Sort,2867.13,14000000
+Quick Sort,2119.01,14000000
+qsort,2629.77,14000000
+Radix sort,19178.3,14000000
+Counting Sort,1748.88,14000000
+Flash Sort,2581.04,14000000
+Shell Sort,9589.63,16000000
+Heap Sort,8014.55,16000000
+Merge Sort,3368.21,16000000
+Quick Sort,2468.48,16000000
+qsort,3009.27,16000000
+Radix sort,21904.1,16000000
+Counting Sort,1996.45,16000000
+Flash Sort,3021.21,16000000
+Shell Sort,12619,20000000
+Heap Sort,10263.9,20000000
+Merge Sort,4243.83,20000000
+Quick Sort,3082.79,20000000
+qsort,3792.24,20000000
+Radix sort,27377.3,20000000
+Counting Sort,2487.91,20000000
+Flash Sort,3808.57,20000000
